@@ -1,0 +1,5 @@
+# Ignore NormalReports directory
+NormalReports/
+
+# Or if there are files named NormalReports (anywhere)
+**/NormalReports
