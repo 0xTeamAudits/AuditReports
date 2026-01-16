@@ -4,3 +4,7 @@ NormalReports/
 # Or if there are files named NormalReports (anywhere)
 **/NormalReports
 .vscode
+
+# Private Audit Reports - Do not push
+2025-Reports/2025-17-AMGI-studios.pdf
+2025-Reports/2025-16-My-Pet-Hooligan.pdf

@@ -8,13 +8,14 @@ A comprehensive collection of security audits conducted by 0xTeam.
 
 | Sl No | Client | Audit Type | Completion Year | Link |
 |:-----:|--------|:----------:|:---------------:|:----:|
-| 30 | KARRAT | Private | 2025 | N/A |
-| 29 | AMGI Studios | Public | 2025 | [PDF](2025-Reports/2025-17-AMGI-studios.pdf) |
-| 28 | My Pet Hooligan | Public | 2025 | [PDF](2025-Reports/2025-16-My-Pet-Hooligan.pdf) |
-| 27 | Polygon Project | Private | 2025 | N/A |
-| 26 | Studio Chain | Public | 2025 | N/A |
-| 25 | Private Client | Private | 2025 | N/A |
-| 24 | FunToken | Public | 2025 | [PDF](2025-Reports/2025-15-FunToken.pdf) |
+| 31 | KARRAT | Private | 2025 | N/A |
+| 30 | AMGI Studios | Private | 2025 | N/A |
+| 29 | My Pet Hooligan | Private | 2025 | N/A |
+| 28 | Polygon Project | Private | 2025 | N/A |
+| 27 | Studio Chain | Public | 2025 | N/A |
+| 26 | Private Client | Private | 2025 | N/A |
+| 25 | FunToken | Public | 2025 | [PDF](2025-Reports/2025-15-FunToken.pdf) |
+| 24 | FixedCurve | Private | 2025 | N/A |
 | 23 | DZap | Public | 2025 | [PDF](2025-Reports/2025-14-DZap.pdf) |
 | 22 | XDC Project | Private | 2025 | N/A |
 | 21 | Private Client | Private | 2025 | N/A |
@@ -41,4 +42,4 @@ A comprehensive collection of security audits conducted by 0xTeam.
 
 ---
 
-**Total Audits Completed:** 30
+**Total Audits Completed:** 31
